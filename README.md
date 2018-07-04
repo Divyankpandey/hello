@@ -1,2 +1,3 @@
 # hellow-world
-hellow world program
+New development for learning git
+
